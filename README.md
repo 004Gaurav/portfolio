@@ -2,6 +2,8 @@
 
 This is my personal **portfolio website**, built with HTML, CSS, and JavaScript to showcase my projects, skills, and contact information.
 
+[PORTFOLIO](https://004gaurav.github.io/portfolio/)
+
 ---
 
 ## 🚀 Features
@@ -15,13 +17,6 @@ This is my personal **portfolio website**, built with HTML, CSS, and JavaScript 
 ## 👀 Preview
 
 ![Portfolio Demo](images/preview.gif)
-
----
-
-## 🛠️ Tech Stack
-- **Frontend:** HTML5, CSS3, JavaScript  
-- **Icons:** [Font Awesome](https://fontawesome.com/)  
-- **Deployment:** GitHub Pages (or any hosting of your choice)  
 
 ---
 
@@ -40,7 +35,7 @@ portfolio/
 ## 📬 Contact
 - **Email:** [gauravkumar19994@gmail.com](mailto:gauravkumar19994@gmail.com)  
 - **GitHub:** [004Gaurav](https://github.com/004Gaurav)  
-- **LinkedIn:** [Your LinkedIn Profile](https://www.linkedin.com/in/004gaurav)   
+- **LinkedIn:** [LinkedIn Profile](https://www.linkedin.com/in/004gaurav)   
 
 ---
 
